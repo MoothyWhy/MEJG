@@ -6,7 +6,6 @@ The automatic synthesis of realistic co-speech gestures is becoming increasingly
 
 Generated Sample
 ============
-![Generated Sample 1](./misc/EjSuaeVfE9I_159_29_000_0.gif)
 ![Generated Sample 2](./misc/tz9-N_mRI04_1140_0_000_0.gif)
 
 ## Acknowledgement
