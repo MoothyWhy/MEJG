@@ -9,6 +9,8 @@ Generated Sample
 ![Generated Sample 1](./misc/EjSuaeVfE9I_159_29_000_0.gif)
 ![Generated Sample 2](./misc/tz9-N_mRI04_1140_0_000_0.gif)
 
+## Acknowledgement
+* The codebase is developed based on [Gesture Generation from Trimodal Context](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context) of Yoon et al.
 
 Copyright Information
 ============
